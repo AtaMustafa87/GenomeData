@@ -1,0 +1,18 @@
+Solution
+
+https://www.medrxiv.org/content/10.1101/2024.04.11.24305656v2.full
+
+other resources:
+https://www.protocols.io/view/complete-wgs-data-processing-in-hpc-environment-czyex7te.html
+
+https://docs.gdc.cancer.gov/Data/Bioinformatics_Pipelines/DNA_Seq_Variant_Calling_Pipeline/
+
+NGS Pipeline Development
+
+https://medium.com/@gromdimon/from-fastq-to-vcf-variant-calling-workflow-b9e906c0d3dc
+
+https://gatk.broadinstitute.org/hc/en-us/community/posts/360056100851-Somatic-pipeline-from-FASTQ-to-VCF
+
+https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-015-1027-x
+
+https://diagnostech.co.za/intro-to-ngs-data-analysis-workflow/
